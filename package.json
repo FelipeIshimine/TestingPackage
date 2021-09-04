@@ -1,7 +1,7 @@
 {
   "name": "com.felipeishimine.testpackage",
   "displayName": "Felipe Ishimine - Test Package",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Paquete de prueba",
   "keywords": [
     "Paquete",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type" : "git",
-    "url": "ssh://git@github.com:FelipeIshimine/TestingPackage.git"
+    "url": "ssh://git@github.com:FelipeIshimine/com.felipeishimine.testpackage.git"
   },
   "type": "tool",
   "unity": "2020.1"
