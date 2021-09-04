@@ -1,0 +1,20 @@
+{
+  "name": "com.felipeishimine.testpackage",
+  "displayName": "Felipe Ishimine - Test Package",
+  "version": "1.0.2",
+  "description": "Paquete de prueba",
+  "keywords": [
+    "Paquete",
+    "de",
+    "prueba",
+    "felipe",
+    "ishimine"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Felipe Ishimine",
+    "email": "felipeishimine@gmail.com"
+  },
+  "type": "tool",
+  "unity": "2020.1"
+}
